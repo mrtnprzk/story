@@ -1,1 +1,5 @@
+.DS_Store
 secret.txt
+
+#comment
+# ->   *.txt   <- everything with .txt is in ignore
